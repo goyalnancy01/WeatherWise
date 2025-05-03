@@ -24,7 +24,7 @@ WeatherWise is a simple and elegant web application that allows users to get rea
 ---
 ## 🌐 Live Demo
 
-Check out the live version: [WeatherWise Live](https://your-live-demo-link.com)  
+Check out the live version: [WeatherWise Live]( https://goyalnancy01.github.io/WeatherWise/)  
 > *(Replace with your actual live demo link if hosted)*
 
 ---
