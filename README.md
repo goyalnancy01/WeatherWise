@@ -22,6 +22,12 @@ WeatherWise is a simple and elegant web application that allows users to get rea
 - **OpenWeatherMap API**
 
 ---
+## 🌐 Live Demo
+
+Check out the live version: [WeatherWise Live](https://your-live-demo-link.com)  
+> *(Replace with your actual live demo link if hosted)*
+
+---
 
 
 
